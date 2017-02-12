@@ -8,3 +8,6 @@ Lisp
 JavaScript
 HTML
 CSS
+PHP
+Clojure
+Haskell
