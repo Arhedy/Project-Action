@@ -1,6 +1,9 @@
 C
 C++
 C#
+Ruby
+Perl
+R
 Java 
 Scala
 Python
@@ -11,3 +14,4 @@ CSS
 PHP
 Clojure
 Haskell
+SQL
