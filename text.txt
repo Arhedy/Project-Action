@@ -1,6 +1,5 @@
 Programming languages:
 Delphi
-MATLAB
 C
 C++
 C#
@@ -18,5 +17,6 @@ PHP
 Clojure
 Haskell
 SQL
+Prolog
 
 Game engines:
