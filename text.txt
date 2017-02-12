@@ -7,7 +7,7 @@ Ruby
 Perl
 R
 Java 
-S!cala
+Scala
 Python
 Lisp
 JS
@@ -23,3 +23,4 @@ Game engines:
 Unreal Engine
 Unity
 Frostbite
+Red Engine
