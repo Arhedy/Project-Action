@@ -7,7 +7,7 @@ Ruby
 Perl
 R
 Java 
-Scala
+S!cala
 Python
 Lisp
 JS
@@ -20,3 +20,6 @@ SQL
 Prolog
 
 Game engines:
+Unreal Engine
+Unity
+Frostbite
