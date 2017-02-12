@@ -1,3 +1,10 @@
 C
 C++
 C#
+Java 
+Scala
+Python
+Lisp
+JavaScript
+HTML
+CSS
