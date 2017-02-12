@@ -10,7 +10,7 @@ Java
 Scala
 Python
 Lisp
-JavaScript
+JS
 HTML
 CSS
 PHP
